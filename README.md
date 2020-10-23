@@ -1,5 +1,5 @@
 # bitmap
-A single C++ header file that adds an easy way to read and write bitmaps using 2D integer vectors.
+A single C++ header file that adds an easy way to read and write bitmap (.bmp) image files using 2D integer vectors.
 
 # documentation
 `std::vector<std::vector<int>> bmp::readBitmap(std::string filename)` - Reads the specified bitmap image and returns as a 2D vector of integers.
